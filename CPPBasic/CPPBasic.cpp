@@ -3,11 +3,13 @@
 #include <iostream>
 #include "10869.h"
 #include "10926.h"
+#include "18108.h"
 
 int main()
 {
 	baekjoon_10869();
 	baekjoon_10926();
+	baekjoon_18108();
 	return 0;
 }
 
