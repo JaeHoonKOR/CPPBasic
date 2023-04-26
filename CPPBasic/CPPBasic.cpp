@@ -4,12 +4,14 @@
 #include "10869.h"
 #include "10926.h"
 #include "18108.h"
+#include "10430.h"
 
 int main()
 {
 	baekjoon_10869();
 	baekjoon_10926();
 	baekjoon_18108();
+	baekjoon_10430();
 	return 0;
 }
 

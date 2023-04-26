@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10430.cpp" />
     <ClCompile Include="10869.cpp" />
     <ClCompile Include="10926.cpp" />
     <ClCompile Include="18108.cpp" />
     <ClCompile Include="CPPBasic.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="10430.h" />
     <ClInclude Include="10869.h" />
     <ClInclude Include="10926.h" />
     <ClInclude Include="18108.h" />
